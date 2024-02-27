@@ -6,4 +6,3 @@ In order to run this project you need to take these steps:
 3. npm run dev - to run Vue.js in the localhost
 4. php artisan serve - to run laravel in the localhost
 5. You need to run your phpmyadmin or another form of MySQL
-6. 
